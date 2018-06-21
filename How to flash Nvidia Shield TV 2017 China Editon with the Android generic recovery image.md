@@ -12,7 +12,7 @@
 
 2. 解压驱动程序SHIELD_Family_WHQL_USB_driver_201801.zip至桌面
 
-3. 解压美版固件SHIELD_Family_WHQL_USB_driver_201801.zip至任意文件夹，将下列文件移至minimal_adb_fastboot的安装目录
+3. 解压美版固件nv-recovery-image-shield-atv-2017-7.0.1.zip至任意文件夹，将下列文件移至minimal_adb_fastboot的安装目录
 
    > - blob
    > - boot.img
