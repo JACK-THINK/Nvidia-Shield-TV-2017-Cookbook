@@ -115,6 +115,7 @@
 21. 执行该界面中“reboot”命令，重启Nvidia Shield TV 2017
 
     > 注意：Nvidia Shield TV 2017国行版本即使刷了Nvidia Shield TV 2017美版固件，开机画面还是会有“爱奇艺”图标，这并不造成任何影响
+    > 
     > 更新：2018-6-27：NVIDIA官方推送了SHIELD Experience 7.0.2，更新后，Nvidia Shield TV 2017国行版本刷美版固件后遗留的“爱奇艺”图标终于消失，仅剩“NVIDIA”图标
 
 22. 将路由器翻墙，待Nvidia Shield TV 2017重启后，依照显示器上的提示，联网并激活设备
